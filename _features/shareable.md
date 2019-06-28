@@ -1,5 +1,5 @@
 ---
-description: Shareable
+description: Symbolic Calculation Support
 order: 2
 ---
-Plots, dashboards, and apps can be published in web pages or Juptyter notebooks.
+EinsteinPy provides and amazing support for sympy based symbolic calculation of various tensors and their operations!

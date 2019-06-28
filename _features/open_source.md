@@ -2,4 +2,4 @@
 description: Open Source
 order: 5
 ---
-Everything, including the Bokeh server, is BSD licensed and available on [GitHub](//github.com/bokeh/bokeh).
+Everything, including the core module, plotting, symbolic module is MIT licensed and available on [GitHub](//github.com/einsteinpy/einsteinpy).
