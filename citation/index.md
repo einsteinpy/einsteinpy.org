@@ -2,7 +2,7 @@
 layout: page
 title:  The EinsteinPy Project
 ---
-If you find Bokeh useful in your work, a citation is always appreciated.
+If you find EinsteinPy useful in your work, a citation is always appreciated.
 
 To cite EinsteinPy in publications, use:
 
